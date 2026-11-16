@@ -137,3 +137,6 @@ async function ambilDanOlah() {
 - `Promise.all` cocok dipakai kalau beberapa request **tidak saling bergantung** — jalan paralel, lebih cepat daripada `await` satu-satu.
 
 *Lihat `materi-array-async.md` untuk penjelasan lengkap beserta mini project dashboard data pengguna.*
+
+
+// Update 16 Nov 2026
