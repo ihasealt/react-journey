@@ -353,3 +353,5 @@ jalankanDashboard();
 | `reduce` | Ringkas array jadi satu nilai | Total harga, grouping data |
 | `async/await` | Tulis kode asynchronous secara linear | Ambil data dari API |
 | `try/catch` | Tangani error pada kode async | API gagal diakses |
+
+// Update 17 Nov 2026
