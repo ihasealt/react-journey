@@ -425,3 +425,5 @@ Buka `http://localhost:5173/` di browser. Kamu akan melihat 2 kartu profil, satu
 | Atribut | camelCase: `className`, `onClick`, `htmlFor` |
 | Ekspresi `{}` | Hanya untuk ekspresi, bukan statement (`if`/`for`) |
 | List Rendering | Wajib `key` unik di setiap elemen hasil `.map()` |
+
+// Update 21 Nov 2026
