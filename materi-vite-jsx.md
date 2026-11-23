@@ -427,3 +427,4 @@ Buka `http://localhost:5173/` di browser. Kamu akan melihat 2 kartu profil, satu
 | List Rendering | Wajib `key` unik di setiap elemen hasil `.map()` |
 
 // Update 21 Nov 2026
+// Detailed at 23 Nov 2026
